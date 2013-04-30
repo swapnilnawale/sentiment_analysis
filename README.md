@@ -1,7 +1,7 @@
 sentiment_analysis
 ==================
 
-A python sentiment_analysis using viralheat API
+Sentiment Analysis using viralheat API in python
 
 Problem 
 Description       : 
